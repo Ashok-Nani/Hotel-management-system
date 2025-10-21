@@ -7,7 +7,11 @@ MENU = {
     "chapathi": 50,
     "parota": 50,
     "ragimudda": 30,
-    "whiterice": 60
+    "whiterice": 60,
+    "Pepsi":45,
+    "Thumsup":45,
+    "Sprite":45,
+    "Maaza":50
 }
 
 DISCOUNT_THRESHOLD = 999
