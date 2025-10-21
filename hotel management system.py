@@ -8,10 +8,10 @@ MENU = {
     "parota": 50,
     "ragimudda": 30,
     "whiterice": 60,
-    "Pepsi":45,
-    "Thumsup":45,
-    "Sprite":45,
-    "Maaza":50
+    "pepsi": 45,
+    "thumsup": 45,
+    "sprite": 45,
+    "maaza": 50
 }
 
 DISCOUNT_THRESHOLD = 999
