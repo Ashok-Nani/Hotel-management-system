@@ -1,4 +1,5 @@
 ---------------- HOTEL RECEIPT ----------------
+<<<<<<< HEAD
 Date/Time: 2025-10-22 16:21:54
 -----------------------------------------------
 Item Ordered: Biryani
@@ -8,4 +9,15 @@ Price per Unit: Rs. 100
 Initial Total: Rs. 1300
 Discount Applied: - Rs. 200
 FINAL PAYABLE AMOUNT: Rs. 1100
+=======
+Date/Time: 2025-10-21 16:52:53
+-----------------------------------------------
+Item Ordered: Biryani
+Quantity: 12
+Price per Unit: Rs. 100
+-----------------------------------------------
+Initial Total: Rs. 1200
+Discount Applied: - Rs. 200
+FINAL PAYABLE AMOUNT: Rs. 1000
+>>>>>>> 2cc5c25878d0d9a23d8f26463f00eff5f73887bf
 ---------------- Thank You! -------------------
